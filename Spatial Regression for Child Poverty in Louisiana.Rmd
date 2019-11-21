@@ -33,6 +33,7 @@ summary(la_pov)
 ```
 
 I then ran a linear model to examine which variables had the most significant effect in regards to child poverty.
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 # Ordinary Least Squares equation and lm model to determine 
 # significant variables associated with child poverty
